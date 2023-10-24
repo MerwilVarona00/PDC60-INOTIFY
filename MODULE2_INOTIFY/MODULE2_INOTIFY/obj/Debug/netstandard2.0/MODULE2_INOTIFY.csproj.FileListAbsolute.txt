@@ -1,0 +1,2 @@
+C:\Users\Borj\source\repos\MODULE2_INOTIFY\MODULE2_INOTIFY\MODULE2_INOTIFY\obj\Debug\netstandard2.0\MODULE2_INOTIFY.csproj.AssemblyReference.cache
+C:\Users\Borj\source\repos\MODULE2_INOTIFY\MODULE2_INOTIFY\MODULE2_INOTIFY\obj\Debug\netstandard2.0\MODULE2_INOTIFY.GeneratedMSBuildEditorConfig.editorconfig
